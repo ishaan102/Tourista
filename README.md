@@ -106,7 +106,7 @@ Tourista/
 
 ## 👨‍💻 Author
 
-Built with ❤️ by [@Anugupta5102](https://github.com/ishaan102)
+Built with ❤️ by [@ishaan102](https://github.com/ishaan102)
 
 ---
 
